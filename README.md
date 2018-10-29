@@ -1,2 +1,4 @@
 # CSE-Lab-on-Cloud
-MBSTU CSE Lab on cloud environment
+This project was to deploy a fully working private cloud on the University Lab. Openstack was used.
+
+Open the powerpoint file in this repository for details.
